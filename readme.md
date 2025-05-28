@@ -19,7 +19,7 @@ El pipeline cubrirá desde la adquisición y validación de datos clínicos hast
 
 ## 2. Diagrama del Pipeline
 
-![Pipeline de MLOps para predicción clínica](./pipeline-mlops-clinico.png)
+![Pipeline de MLOps para predicción clínica](pipeline-mlops-clinico.png)
 
 Se propone un pipeline modular compuesto por las siguientes fases principales:
 1. Entrenamiento offline
